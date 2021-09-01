@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		615FB3FC26DF4B7D00E4E9D6 /* NSObject+Cate.m in Sources */ = {isa = PBXBuildFile; fileRef = 615FB3FB26DF4B7D00E4E9D6 /* NSObject+Cate.m */; };
 		61B79E3024BCCC3E00DE4A41 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 61B79E2F24BCCC3E00DE4A41 /* AppDelegate.m */; };
 		61B79E3324BCCC3E00DE4A41 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 61B79E3224BCCC3E00DE4A41 /* SceneDelegate.m */; };
 		61B79E3624BCCC3E00DE4A41 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 61B79E3524BCCC3E00DE4A41 /* ViewController.m */; };
@@ -20,8 +19,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		615FB3FA26DF4B7D00E4E9D6 /* NSObject+Cate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+Cate.h"; sourceTree = "<group>"; };
-		615FB3FB26DF4B7D00E4E9D6 /* NSObject+Cate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Cate.m"; sourceTree = "<group>"; };
 		61B79E2B24BCCC3E00DE4A41 /* RuntimeExchangeMethod.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RuntimeExchangeMethod.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61B79E2E24BCCC3E00DE4A41 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		61B79E2F24BCCC3E00DE4A41 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -74,8 +71,6 @@
 				61B79E4724BCCF4C00DE4A41 /* cloud.jpeg */,
 				61B79E2E24BCCC3E00DE4A41 /* AppDelegate.h */,
 				61B79E2F24BCCC3E00DE4A41 /* AppDelegate.m */,
-				615FB3FA26DF4B7D00E4E9D6 /* NSObject+Cate.h */,
-				615FB3FB26DF4B7D00E4E9D6 /* NSObject+Cate.m */,
 				61B79E3124BCCC3E00DE4A41 /* SceneDelegate.h */,
 				61B79E3224BCCC3E00DE4A41 /* SceneDelegate.m */,
 				61B79E3424BCCC3E00DE4A41 /* ViewController.h */,
@@ -164,7 +159,6 @@
 				61B79E4B24BCD09900DE4A41 /* UIImage+Image.m in Sources */,
 				61B79E3024BCCC3E00DE4A41 /* AppDelegate.m in Sources */,
 				61B79E4124BCCC4300DE4A41 /* main.m in Sources */,
-				615FB3FC26DF4B7D00E4E9D6 /* NSObject+Cate.m in Sources */,
 				61B79E3324BCCC3E00DE4A41 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
